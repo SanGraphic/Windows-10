@@ -3,7 +3,7 @@
 ### Use at Your own Risk
 Make sure that you have a System Restore Point.
 
-### [Download](https://github.com/SanGraphic/Windows-10/archive/refs/heads/main.zip)
+# [Download](https://github.com/SanGraphic/Windows-10/archive/refs/heads/main.zip)
 
 - Disable Telemetry & Data Collection
 - Disable Scheduled Tasks & Bloatwares
