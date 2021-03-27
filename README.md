@@ -15,6 +15,8 @@ Make sure that you have a System Restore Point.
 ## Tested on Windows 10 v2009
 
 [License](https://github.com/SanGraphic/Windows-10/blob/main/LICENSE)
+
 [Twitter](https://twitter.com/sangraphic)
+
 [YouTube](https://youtube.com/c/sangamerg)
 
