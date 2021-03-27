@@ -1,0 +1,5 @@
+Allowlist and Blocklist
+There may be some confusion, but when using the Allowlist/Blocklist, the checkmark means it is on the blocklist, and that it will be removed.
+
+full credits go to:
+https://github.com/Sycnex/Windows10Debloater
