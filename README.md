@@ -1,4 +1,4 @@
-## Windows 10 Tweaks &amp; Adjustments for less system usage & bloatware 
+## Windows 10 Tweaks &amp; Adjustments for less system usage & bloatware & Better Gaming Performance.
 
 ### Use at Your own Risk
 Make sure that you have a System Restore Point.
