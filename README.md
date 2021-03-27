@@ -10,5 +10,9 @@ Make sure that you have a System Restore Point.
 - Performance & Memory Usage Tweaks
 - Remove Temporary Files
 
+### [Download](https://github.com/SanGraphic/Windows-10/archive/refs/heads/main.zip)
 
 [License](https://github.com/SanGraphic/Windows-10/blob/main/LICENSE)
+[Twitter](https://twitter.com/sangraphic)
+[YouTube](https://youtube.com/c/sangamerg)
+
