@@ -1,4 +1,4 @@
-## Tweaks &amp; Adjustments that I do on new / clean installations of Windows 10.
+## Windows 10 Tweaks &amp; Adjustments for less system usage & bloatware 
 
 ### Use at Your own Risk
 Make sure that you have a System Restore Point.
