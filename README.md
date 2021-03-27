@@ -15,11 +15,12 @@ Make sure that you have a System Restore Point.
 - Remove Temporary Files
 
 ## Debloat [by Sycnex](https://github.com/Sycnex/Windows10Debloater)
-First Customize Blocklist, the checkmark / tick means it is going to be removed, untick any program that you may want.
+- Customize Blocklist, the checkmark / tick means it is going to be removed, untick any program that you may want
+- Click Remove Bloatware with custom Blocklist
+
+Options: Disable cortana, Edge PDF, Uninstall OneDrive, Unpin tiles on Start Menu, Disable Telemetry / Tasks, Remove Bloatware Regkeys.
 
 
-full credits go to:
-https://github.com/Sycnex/Windows10Debloater
 
 ### Tested on Windows 10 v2009
 
